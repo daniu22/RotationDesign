@@ -1,3 +1,0 @@
-/home/daniu/CLionProjects/RotationDesign/cmake-build-release/CMakeFiles/RotationDesign.dir
-/home/daniu/CLionProjects/RotationDesign/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/daniu/CLionProjects/RotationDesign/cmake-build-release/CMakeFiles/rebuild_cache.dir

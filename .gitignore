@@ -1,3 +1,7 @@
+#Ide
+.idea/
+cmake-build-debug/
+cmake-build-release
 # Prerequisites
 *.d
 
